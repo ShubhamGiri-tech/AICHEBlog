@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}-----------1*/
+
+body {
+  background: #e9eaed;
+  font-family: "Oswald", sans-serif;
+}
+
+.App {
+  width: 90%;
+  margin: 0 auto;
 }
